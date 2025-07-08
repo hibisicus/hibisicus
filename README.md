@@ -42,10 +42,12 @@
 </div>
 
 #  🙋 Hello
-<div style="width: 850px">
-<table>
 
-<tr><td>
+
+
+<table >
+
+<tr ><td style="width: 1000px">
 
 ### 🤺 About Me
 
@@ -62,4 +64,3 @@
 
 <tr><td>
 </table>
-</div>
