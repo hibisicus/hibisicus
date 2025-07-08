@@ -47,7 +47,7 @@
 
 <table >
 
-<tr ><td style="width: 100%">
+<tr ><td style="width: 1500px">
 
 ### 🤺 About Me
 
