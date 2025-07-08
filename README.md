@@ -45,9 +45,9 @@
 
 
 
-<table style="display: inline-block; width: 100%;">
+<table style="width: 100% !important; table-layout: fixed !important; margin: 0 !important; padding: 0 !important; display: table !important; width: auto !important;">
 
-<tr ><td >
+<tr >td style="width: 100% !important; padding: 0 !important;">
 
 ### 🤺 About Me
 
