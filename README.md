@@ -45,9 +45,9 @@
 
 
 
-<table style="width: 100% !important; table-layout: fixed !important; margin: 0 !important; padding: 0 !important; display: table !important; width: auto !important;">
+<table>
 
-<tr >td style="width: 100% !important; padding: 0 !important;">
+<tr>
 
 ### 🤺 About Me
 
@@ -60,7 +60,7 @@
 <p>&emsp;&emsp;<strong>主页样式是抄的别人的，如有喜欢，可以也去抄抄，hhh. <a href="https://github.com/sun0225SUN">原作者地址</a></strong></p>
 
 
-</td></tr>
+</tr>
 
 <tr><td>
 </table>
