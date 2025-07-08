@@ -43,7 +43,7 @@
 
 #  🙋 Hello
 
-<table style="width: 100%">
+<table style="width: 100% !important; table-layout: fixed !important; margin: 0 !important; padding: 0 !important;">
 
 <tr><td>
 
@@ -55,14 +55,10 @@
 <p>&emsp;&emsp;坚持运动，坚持写代码;学习新技术，方便自己的生活；如果能再回报社会，那就更棒了。</p>
 <p>&emsp;&emsp;没有什么困难是高于生死抉择的，所以快乐一天，过好当下;。</p>
 <p>&emsp;&emsp;<strong>Believe that you can definitely succeed.</strong></p>
-<p>&emsp;&emsp;<strong>主页样式是抄的别人的，如有喜欢，可以也去抄抄，hhh <a aria-placeholder="原作者地址" href="https://github.com/sun0225SUN" />.</strong></p>
+<p>&emsp;&emsp;<strong>主页样式是抄的别人的，如有喜欢，可以也去抄抄，hhh. <a href="https://github.com/sun0225SUN">原作者地址</a></strong></p>
 
 
 </td></tr>
 
 <tr><td>
-
-
-
-
 </table>
