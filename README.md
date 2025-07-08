@@ -16,21 +16,7 @@
   <div>&nbsp;</div>
 
   <!-- profile logo 个人资料徽标 -->
-<!--
-    <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
 
-
--->
-  <div>
-    <a href="https://wechat.guoqi.dev"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-    <!-- wakatime -->    
-    <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
-
-  </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
@@ -53,9 +39,9 @@
 
 <img align="right" width="128" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;嗨，你好，同学，欢迎来到我的介绍。一直在坚持“爱上没什么了不起，爱下去才了不起”，</p>
-<p>&emsp;&emsp;坚持运动，坚持写代码;学习新技术，方便自己的生活；如果能再回报社会，那就更棒了。</p>
-<p>&emsp;&emsp;没有什么困难是高于生死抉择的，所以快乐一天，过好当下;。</p>
+<p>&emsp;&emsp;嗨，你好，同学，欢迎来到我的介绍。一直在坚持“爱上没什么了不起，爱下去才了不起”；</p>
+<p>&emsp;&emsp;坚持运动，坚持写代码;学习新技术，方便自己的生活；如果能再回报社会，那就更棒了；</p>
+<p>&emsp;&emsp;没有什么困难是高于生死抉择的，所以快乐一天，过好当下;</p>
 <p>&emsp;&emsp;<strong>Believe that you can definitely succeed.</strong></p>
 <p>&emsp;&emsp;<strong>主页样式是抄的别人的，如有喜欢，可以也去抄抄，hhh. <a href="https://github.com/sun0225SUN">原作者地址</a></strong></p>
 
