@@ -43,7 +43,7 @@
 
 #  🙋 Hello
 
-<table style="width: 846px">
+<table style="width: 850px;">
 
 <tr><td>
 
