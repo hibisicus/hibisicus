@@ -43,7 +43,7 @@
 
 #  🙋 Hello
 
-<table style="width: 100% !important; table-layout: fixed !important; margin: 0 !important; padding: 0 !important;">
+<table style="width: 846px">
 
 <tr><td>
 
