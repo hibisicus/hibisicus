@@ -42,8 +42,8 @@
 </div>
 
 #  🙋 Hello
-
-<table style="width: 850px;">
+<div style="width: 850px">
+<table>
 
 <tr><td>
 
@@ -62,3 +62,4 @@
 
 <tr><td>
 </table>
+</div>
