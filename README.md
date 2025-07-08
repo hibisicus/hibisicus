@@ -45,9 +45,9 @@
 
 
 
-<table >
+<table style="display: inline-block; width: 100%;">
 
-<tr ><td style="width: 1500px">
+<tr ><td >
 
 ### 🤺 About Me
 
