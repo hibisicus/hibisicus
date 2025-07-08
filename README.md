@@ -39,7 +39,7 @@
 
 <img align="right" width="128" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;嗨，你好，同学，欢迎来到我的介绍。一直在坚持“爱上没什么了不起，爱下去才了不起”；</p>
+<p>&emsp;&emsp;嗨，你好，同学，欢迎来到Readme。一直在坚持“爱上没什么了不起，爱下去才了不起”；</p>
 <p>&emsp;&emsp;坚持运动，坚持写代码;学习新技术，方便自己的生活；如果能再回报社会，那就更棒了；</p>
 <p>&emsp;&emsp;没有什么困难是高于生死抉择的，所以快乐一天，过好当下;</p>
 <p>&emsp;&emsp;<strong>Believe that you can definitely succeed.</strong></p>
